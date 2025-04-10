@@ -1,0 +1,17 @@
+scikit-image
+pandas 
+numpy 
+tensorflow
+flask
+ultralytics 
+opencv-python
+dill
+imutils
+matplotlib
+filterpy
+easyocr
+geopy
+python-docx
+cvzone
+keras-models
+openpyxl
